@@ -15,4 +15,6 @@ public class SingletonService {
 
 
     // 모든 빈을 이렇게 코드를 적어야 하냐? NO -> 스프링 컨테이너가 싱슬톤으로 관리해줌
+
+    // 단점또한 많이 존재 주로 구현에 getinstance를 해줘야하기 때문
 }
